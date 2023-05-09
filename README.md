@@ -15,4 +15,13 @@ kelima push pake git push -u, -u ini supaya bisa pas push slanjutnya pake git pu
 [Buka Google Caranya Gini](https://www.google.com)
 
 cara kasi gambar
+
 ![One Piece](one_piece.jpg)
+
+tambahin tabel
+
+| Planet | Diameter | Jumlah Satelit |
+| ------- | -------- | -------------- |
+| Bumi | 12.756 | 1 |
+| Mars | 6.792 | 2 |
+| Jupiter | 142.984 | 67 |
