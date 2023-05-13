@@ -9,7 +9,7 @@ keempat sambungin repository di github web ke vscode ni, folder ni
 kelima push pake git push -u, -u ini supaya bisa pas push slanjutnya pake git push doang ga perlu make remotenya
 
 cara batalin push
-- git reset HEAD~1
+- git reset HEAD~1 (mundur ke commit sebelumnya)
 - git push -f (f = force / paksa)
 
 # MarkDown
