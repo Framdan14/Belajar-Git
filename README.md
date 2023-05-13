@@ -29,3 +29,40 @@ tambahin tabel
 | Bumi | 12.756 | 1 |
 | Mars | 6.792 | 2 |
 | Jupiter | 142.984 | 67 |
+
+Blok Source Code 
+contoh code berbagai platform
+
+```c
+    printf("hello world brodii");
+```
+
+```python
+    print("hello lagi")
+```
+
+```java
+    class main(
+        public static void main(String args[]){
+            System.out.println("Hello terus bosan");
+        }
+    )
+```
+
+```html
+<a href="https://www.youtube.com/">YouTube</a>
+```
+
+```js
+console.log("Hello, world!");
+Divisi Pendidikan PUB 2022/2023 Terakhir diperbarui: 5/13/23, 7:55 PM
+24 / 30
+```
+
+```sql
+SELECT * FROM users WHERE email = 'romi@gmail.com';
+```
+
+```shell
+$ git commit -m "first commit"
+```
