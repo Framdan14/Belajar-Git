@@ -1,5 +1,5 @@
 # "Belajar Git & Github"
-
+ cek ubah rebase
 Ijo tandanya kalo ada penambahan, kalo perubahan warnanya biru
 
 pertama di add
@@ -66,5 +66,3 @@ SELECT * FROM users WHERE email = 'romi@gmail.com';
 ```shell
 $ git commit -m "first commit"
 ```
-
-ubah lu
