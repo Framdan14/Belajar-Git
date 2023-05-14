@@ -16,8 +16,6 @@ cara kembaliin merge di "git reset HEAD~1" tapi ini dengan perbaikan manual nant
  tapi jika menambahkan hard setelah reset nya "git reset --hard HEAD~1"
 
 
-cek trakhir apakah bisa di push ntar dri commit reset
-
 cara kembaliin merge di "git reset HEAD~1" tapi ini dengan perbaikan manual
 # MarkDown
     -atu
