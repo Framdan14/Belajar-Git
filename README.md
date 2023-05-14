@@ -15,6 +15,7 @@ cara batalin push
 cara kembaliin merge di "git reset HEAD~1" tapi ini dengan perbaikan manual nantinya,
  tapi jika menambahkan hard setelah reset nya "git reset --hard HEAD~1"
 
+haha
 
 cek trakhir apakah bisa di push ntar dri commit reset
 
