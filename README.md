@@ -12,9 +12,7 @@ cara batalin push
 - git reset HEAD~1 (mundur ke commit sebelumnya)
 - git push -f (f = force / paksa)
 
-cara kembaliin merge di "git reset HEAD~1" tapi ini dengan perbaikan manual nantinya,
- tapi jika menambahkan hard setelah reset nya "git reset --hard HEAD~1"
-
+cara kembaliin merge di "git reset HEAD~1" tapi ini dengan perbaikan manual
 # MarkDown
     -atu
     -dua
