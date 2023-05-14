@@ -66,3 +66,5 @@ SELECT * FROM users WHERE email = 'romi@gmail.com';
 ```shell
 $ git commit -m "first commit"
 ```
+
+ubah lu
